@@ -1,0 +1,8 @@
+perturbation,mean,std
+blur,74.09,1.48
+bright,97.03,0.33
+clean,99.2,0.16
+colour_cast,98.74,0.12
+dark,97.0,1.05
+noise,63.71,2.15
+turbid,93.0,1.67
